@@ -1,0 +1,20 @@
+{
+  "name": "sap-testing-readiness",
+  "description": "Explore SAP testing readiness, S/4HANA regression, UAT and integration questions. Build a local discussion brief for an SAP change.",
+  "topics": [
+    "sap",
+    "sap-s4hana",
+    "sap-testing",
+    "regression-testing",
+    "uat",
+    "quality-assurance",
+    "enterprise-software",
+    "test-management"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}
